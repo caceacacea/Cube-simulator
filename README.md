@@ -1,20 +1,5 @@
-# VibeBetterCube
-
-Portable Windows desktop `N x N x N` cube simulator for sizes `2` through `7`.
-
-## Build
-
-```powershell
-.\build.ps1
-```
-
-The build uses the Windows .NET Framework compiler already included on many Windows machines. It does not download packages.
-
-## Run
-
-```powershell
-.\dist\VibeBetterCube.exe
-```
+# THIS IS AI SLOP
+generated with gpt.
 
 ## Controls
 
